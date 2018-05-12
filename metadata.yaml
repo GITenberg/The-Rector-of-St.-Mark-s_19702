@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1239
     wikipedia: http://en.wikipedia.org/wiki/Mary_Jane_Holmes
 description: The rector of St. Mark's.--Miss McDonald.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19702#The-Rector-of-St.-Mark-s
 gutenberg_issued: '2006-11-02'
 gutenberg_type: Text
 identifiers:
